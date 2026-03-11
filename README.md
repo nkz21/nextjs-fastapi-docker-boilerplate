@@ -31,7 +31,7 @@
 | Makefile (`make dev`, `make prod`) | ❌ | ✅ |
 | Priority email support | ❌ | ✅ |
 
-👉 **[Get the Pro version — 39€](https://devtoolsnks.lemonsqueezy.com/buy/1615815)**
+👉 **[Get the Pro version — 39€](https://devtoolsnks.lemonsqueezy.com/buy/1389671)**
 
 ---
 
@@ -95,7 +95,7 @@ The **Pro version** adds everything you need to deploy confidently:
 - Ready-to-use `docker-compose.prod.yml`
 - Makefile with `make dev`, `make prod`, `make migrate`
 
-👉 **[Buy Pro — 39€](https://devtoolsnks.lemonsqueezy.com/buy/1615815)**
+👉 **[Buy Pro — 39€](https://devtoolsnks.lemonsqueezy.com/buy/1389671)**
 
 ---
 
